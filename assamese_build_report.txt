@@ -1,0 +1,37 @@
+JASS ASSAMESE CORPUS BUILD COMPLETE
+========================================
+
+SOURCE
+File: C:\Users\singh\Downloads\Assamese_Corpus\assamese_monolingual_sentences_final_cleaned.csv
+Size: 624.52 MB
+Mode: READ-ONLY
+
+DATABASE
+File: C:\Users\singh\Downloads\Assamese_Corpus\JASS_Assamese_Corpus.db
+Size: 947.60 MB
+
+RECORDS
+Expected records: 1,613,879
+Database records: 1,613,879
+FTS records: 1,613,879
+Blank records skipped: 0
+
+SOURCE LINE RANGE
+First source line: 2
+Last source line: 1613880
+
+SOURCE SHA-256
+6b8cd9c4e948fc675491aef6ceb51a7a64d0a55184c268aea5c97d97b1257c79
+
+VERIFICATION
+Record count: PASSED
+FTS count: PASSED
+Source integrity: PASSED
+SQLite integrity: PASSED
+FTS search test (word: আৰু): 517,534 matches
+Overall verification: PASSED
+
+BUILD TIME
+188.6 seconds
+
+Source modification: NONE
