@@ -1,3 +1,5 @@
+<img width="1912" height="957" alt="image" src="https://github.com/user-attachments/assets/3974eb6f-3f35-4d99-bd22-9d0d5c1ff5bc" />
+
 # JASS Assamese Explorer
 
 **JASS Assamese Explorer** is a lightweight desktop application for exploring a large Assamese-language corpus and turning selected Assamese text into attractive shareable cards.
